@@ -16,9 +16,9 @@
     },
     "require-dev": {
         "fakerphp/faker": "^1.23.0",
-        "filament/filament": "^3.0.24",
+        "filament/filament": "^3.0.27",
         "laravel/pint": "^1.11",
-        "laravel/sail": "^1.23.3",
+        "laravel/sail": "^1.23.4",
         "mockery/mockery": "^1.6.6",
         "nunomaduro/collision": "^7.8.1",
         "phpunit/phpunit": "^10.3.2",
